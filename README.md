@@ -6,11 +6,11 @@ Erasable data mining has become increasingly important in recent years because i
 
 
 **Authors and Affiliations:**  
-National University of Kaohsiung, Kaohsiung, 811, Taiwan
+National University of Kaohsiung, Kaohsiung, 811, Taiwan  
 Tzung-Pei Hong & Wen-Yang Lin
 
-National Sun Yat-Sen University, Kaohsiung, 804, Taiwan
+National Sun Yat-Sen University, Kaohsiung, 804, Taiwan  
 Tzung-Pei Hong & Yi-Chen Chang
 
-Department of Electrical and Control, China Steel, Inc, Kaohsiung, 806, Taiwan
+Department of Electrical and Control, China Steel, Inc, Kaohsiung, 806, Taiwan  
 Wei-Ming Huang
